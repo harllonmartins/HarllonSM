@@ -19,7 +19,7 @@ Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnolo
 <div> 
   <a href = "mailto:harllonsmartins@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harllonsm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://codepen.io/HarllonSM" target="_blank"><img src="https://www.startpage.com/av/proxy-imagepiurl=https%3A%2F%2Flh5.googleusercontent.com%2FiA6XX08TUnQJg_NMCUcZZIc9ssd-gdiPOpJNy3I4aDwdcNrzZ9FEfrJCkiuwwUbYxfeWacYtKuyu32kvCG13OoQWR7c9B_-F2E8UF9SXQnN9uEXh29XA5hueDN4XNEpb5F-azgpV&sp=1634029697T61a1250937b6156c2ef8de917c020cde5b2738e45b28c3519b62a6db8de998c9" target="_blank"></a> 
+  <a href="https://codepen.io/HarllonSM" target="_blank"><img src="https://www.sourcecon.com/wp-content/uploads/sites/3/2018/05/Codepen.png" target="_blank"></a> 
 
 </div>
 
