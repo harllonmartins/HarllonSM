@@ -24,6 +24,6 @@ Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnolo
 </div>
 
 <div>
-  <img src="https://forthebadge.com/images/badges/cc-sa.svg" target="_blank"></a> 
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" target="_blank"></a> 
 </div>
   
