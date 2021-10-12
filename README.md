@@ -1,6 +1,6 @@
 ### E aí? 👋
 
-Ingressei a pouco tempo no estudo de programação na web. Entusiasta de tecnologia e amante dos hardwares e softwares. Gosto de estudar psicologia para entender a mente humana, mas direciono o conhecimento para uso mais pessoal.
+Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnologia e amante dos hardwares e softwares. Gosto de estudar psicologia para entender a mente humana, mas direciono o conhecimento para uso mais pessoal.
 
 <div align="center">
   <a href="https://github.com/HarllonSM">
