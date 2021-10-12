@@ -23,3 +23,7 @@ Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnolo
 
 </div>
 
+<div>
+  <img scr="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+ </div>
+  
