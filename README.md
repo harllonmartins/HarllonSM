@@ -3,7 +3,7 @@
 Ingressei a pouco tempo no estudo de programação na web. Entusiasta de tecnologia e amante dos hardwares e softwares. Gosto de estudar psicologia para entender a mente humana, mas direciono o conhecimento para uso mais pessoal.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/HarllonSM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
