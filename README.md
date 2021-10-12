@@ -20,8 +20,3 @@ Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnolo
   <a href = "mailto:harllonsmartins@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harllonsm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" target="_blank"></a> 
-</div>
-  
