@@ -4,8 +4,8 @@ Ingressei a alguns meses no estudo de Desenvolvimento Web. Entusiasta de tecnolo
 
 <div align="center">
   <a href="https://github.com/HarllonSM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harllonsm&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harllonsm&layout=compact&langs_count=7&theme=default"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harllonsm&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harllonsm&layout=compact&langs_count=7&theme=default"/>
 </div>
   
 <div style="display: inline_block"><br>
